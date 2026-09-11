@@ -9,7 +9,6 @@ def multiplymultiplenumbers(numeros):
     return resultado
 
 
-# Alias por si tu enunciado usa el nombre en español
 def multiplicamultiplenumeros(numeros):
     return multiplymultiplenumbers(numeros)
 
@@ -79,4 +78,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
